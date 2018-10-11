@@ -2,7 +2,7 @@
 
 - Bundle install
 - Set of your database
-- Set your environments
+- Set your environments on application.yml (use application.yml.sample as a guide)
 - Run `rails s`
 
 # Template
